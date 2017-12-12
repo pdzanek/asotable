@@ -16,7 +16,7 @@ Employee::Employee (string m_name, string m_position, unsigned int m_age)
 	position=m_position;
 	age=m_age;
 };
-Employee::~Employee(){};
+Employee::~Employee(){};	
 
 /*cout<<name<<endl;
 	cout<<position<<endl;
